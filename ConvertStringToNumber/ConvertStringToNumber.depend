@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1554752349 source:d:\recursion\convertstringtonumber\main.cpp
+	<iostream>
+	<cstring>
+	<string>
+
