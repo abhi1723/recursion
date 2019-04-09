@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1554842061 source:d:\recursion\foundatlast\main.cpp
+	<iostream>
+	<algorithm>
+
