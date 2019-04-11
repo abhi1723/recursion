@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1555015647 source:d:\recursion\subsequences\main.cpp
+	<iostream>
+	<cstring>
+	<bits/stdc++.h>
+
