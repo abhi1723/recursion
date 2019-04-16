@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1555419449 source:d:\recursion\dictionaryorderlarger\main.cpp
+	<iostream>
+	<cstring>
+	<algorithm>
+
